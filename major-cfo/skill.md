@@ -1,5 +1,5 @@
 ---
-name: major-tai-chinh
+name: major-cfo
 description: Phân tích chênh lệch tài chính và đọc báo cáo cho Major Education — phân rã sĩ số/học phí/cơ cấu cấp học, phân rã chi phí nhân sự, ngưỡng trọng yếu, khung viết diễn giải. Nạp khi làm báo cáo tài chính, so sánh thực tế với ngân sách, hoặc phân tích biến động chi phí.
 ---
 
